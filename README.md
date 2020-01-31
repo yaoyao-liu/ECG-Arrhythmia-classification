@@ -1,4 +1,7 @@
 # ECG-Arrhythmia-classification
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/396b8fb1799e419d9c063ea58c402da5)](https://app.codacy.com/manual/y2l/ECG-Arrhythmia-classification?utm_source=github.com&utm_medium=referral&utm_content=yaoyao-liu/ECG-Arrhythmia-classification&utm_campaign=Badge_Grade_Dashboard)
+
 ## ECG arrhythmia classification using a 2-D convolutional neural network
 
 This repository is an implementation of the paper [ECG arrhythmia classification using a 2-D
